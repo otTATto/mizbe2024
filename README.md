@@ -1,7 +1,7 @@
 # 水辺で乾杯！利根運河2024　デザイン
 ## 概要
 - [**水辺で乾杯！利根運河**](<https://lp.224.works/mizbering/>)というイベントに向けた**デザイン**に関するリポジトリ
-- 主に**ポスター**や**リーフレット**（パンフレット）の**イラレファイル**（**.ai*）を管理する
+- 主に**ポスター**や**リーフレット**（パンフレット）の**イラレファイル**（**.ai**）を管理する
 ## 補足
 - 通常、GitHubでは1ファイルあたり100MBまでのアップロード制限がある（[**参考**](<https://docs.github.com/ja/repositories/working-with-files/managing-large-files/about-large-files-on-github>)）
 - そこで、[**Git Laarge File Storage**](<https://git-lfs.com/>)という仕組みを用いて100MBを超える巨大なファイルの管理をしている
