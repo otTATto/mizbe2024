@@ -3,7 +3,7 @@
 - [**水辺で乾杯！利根運河**](<https://lp.224.works/mizbering/>)というイベントに向けた**デザイン**に関するリポジトリ
 - 主に**ポスター**や**リーフレット**（パンフレット）の**イラレファイル**（**.ai**）を管理する
 ## 外部リンク
-- [**ポスター等で使用している画像**](<https://tus.box.com/s/ikjnj2j7oorcelmdluecb9hziina5pal>)
+- [**完成品および使用している画像のソース**](<https://tus.box.com/s/ikjnj2j7oorcelmdluecb9hziina5pal>)
 ## 補足
 - 通常、GitHubでは1ファイルあたり100MBまでのアップロード制限がある（[**参考**](<https://docs.github.com/ja/repositories/working-with-files/managing-large-files/about-large-files-on-github>)）
 - そこで、[**Git Laarge File Storage**](<https://git-lfs.com/>)という仕組みを用いて100MBを超える巨大なファイルの管理をしている
